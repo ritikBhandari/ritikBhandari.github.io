@@ -1,0 +1,3021 @@
+/* screen - final-design */
+
+.final-design {
+  background-color: var(--black);
+  border: 0.07vw none;
+  height: 447.71vw;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.final-design .exclude-7vbHAl {
+  height: 39.65vw;
+  left: 0.0vw;
+  top: 10.0vw;
+  width: 39.38vw;
+}
+
+.final-design .group-123-7vbHAl {
+  background-color: transparent;
+  height: 98.68vw;
+  left: 0.0vw;
+  position: absolute;
+  top: 0.0vw;
+  width: 48.89vw;
+}
+
+.final-design .metamakers_create_si-7vbHAl {
+  background-color: transparent;
+  height: 59.03vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0.0vw;
+  width: 100.0vw;
+}
+
+.final-design .exclude-iptsTD {
+  height: 40.14vw;
+  left: 8.54vw;
+  top: 286.32vw;
+  width: 41.04vw;
+}
+
+.final-design .exclude-o57ycM {
+  height: 41.6vw;
+  left: 65.49vw;
+  top: 0.0vw;
+  width: 34.51vw;
+}
+
+.final-design .exclude-Y9DxkT {
+  height: 33.68vw;
+  left: 52.92vw;
+  top: 37.85vw;
+  width: 33.4vw;
+}
+
+.final-design .exclude-sBAy1d {
+  height: 21.74vw;
+  left: 8.96vw;
+  top: 90.42vw;
+  width: 21.53vw;
+}
+
+.final-design .exclude-TjnMa1 {
+  height: 57.22vw;
+  left: 41.6vw;
+  top: 95.56vw;
+  width: 54.86vw;
+}
+
+.final-design .exclude-jv0mnT {
+  height: 38.12vw;
+  left: 0.0vw;
+  top: 140.76vw;
+  width: 17.85vw;
+}
+
+.final-design .exclude-eqAz2q {
+  height: 38.12vw;
+  left: 8.89vw;
+  top: 214.17vw;
+  width: 37.85vw;
+}
+
+.final-design .exclude-7zMUkx {
+  height: 54.86vw;
+  left: 35.62vw;
+  top: 251.39vw;
+  width: 54.44vw;
+}
+
+.final-design .exclude-gdx3Dk {
+  height: 39.51vw;
+  left: 56.88vw;
+  top: 371.11vw;
+  width: 39.17vw;
+}
+
+.final-design .exclude-wAe8dr {
+  height: 35.14vw;
+  left: 73.47vw;
+  top: 158.06vw;
+  width: 26.53vw;
+}
+
+.final-design .exclude-UeSN9m {
+  height: 26.25vw;
+  left: 16.67vw;
+  top: 313.33vw;
+  width: 52.15vw;
+}
+
+.final-design .exclude-ZsgJac {
+  height: 26.25vw;
+  left: 3.96vw;
+  top: 350.97vw;
+  width: 56.39vw;
+}
+
+.final-design .group-122-7vbHAl {
+  background-color: transparent;
+  height: 47.43vw;
+  left: 51.67vw;
+  position: absolute;
+  top: 0.0vw;
+  width: 48.33vw;
+}
+
+.final-design .component-8-7vbHAl {
+  background-color: transparent;
+  height: 17.78vw;
+  left: 5.62vw;
+  overflow: hidden;
+  position: absolute;
+  top: 16.11vw;
+  width: 86.25vw;
+}
+
+.final-design .discover-KmpqCp {
+  color: #5b5b5b;
+  font-family: var(--font-family-inter);
+  font-size: 5.56vw;
+  letter-spacing: -0.06vw;
+  top: -0.07vw;
+}
+
+.final-design .frame-48095643-KmpqCp {
+  height: 10.07vw;
+  left: 0.0vw;
+  top: 5.97vw;
+  width: 86.25vw;
+}
+
+.final-design .title-xxRo1T {
+  background-color: transparent;
+  height: auto;
+  left: 0.0vw;
+  letter-spacing: -0.08vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -0.07vw;
+  width: auto;
+}
+
+.final-design .nf-ts-xxRo1T {
+  background-color: transparent;
+  height: auto;
+  left: 0.0vw;
+  letter-spacing: -0.08vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12.64vw;
+  width: auto;
+}
+
+.final-design .blockchain-platforms-xxRo1T {
+  background-color: transparent;
+  height: auto;
+  left: 0.0vw;
+  letter-spacing: -0.08vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25.35vw;
+  width: auto;
+}
+
+.final-design .web3-games-xxRo1T {
+  background-color: transparent;
+  height: auto;
+  left: 0.0vw;
+  letter-spacing: -0.08vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38.06vw;
+  width: auto;
+}
+
+.final-design .more-xxRo1T {
+  background-color: transparent;
+  height: auto;
+  left: 0.0vw;
+  letter-spacing: -0.08vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 50.76vw;
+  width: auto;
+}
+
+.final-design .web3-products-xxRo1T {
+  letter-spacing: -0.08vw;
+  top: 63.47vw;
+}
+
+.final-design .group-77-7vbHAl {
+  background-color: transparent;
+  height: 21.32vw;
+  left: 25.56vw;
+  position: absolute;
+  top: 362.29vw;
+  width: 49.31vw;
+}
+
+.final-design .stay-in-the-loop-UfXx6i {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 3.5vw;
+  font-style: normal;
+  font-weight: 600;
+  height: 4.86vw;
+  left: 0.0vw;
+  letter-spacing: 0.0vw;
+  line-height: 4.83vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0.0vw;
+  white-space: nowrap;
+  width: auto;
+}
+
+.final-design .subscribe-to-our-new-UfXx6i {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 2.33vw;
+  font-style: normal;
+  font-weight: 300;
+  height: 6.53vw;
+  left: 0.0vw;
+  letter-spacing: 0.0vw;
+  line-height: 3.24vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6.6vw;
+  width: 47.85vw;
+}
+
+.final-design .group-76-UfXx6i {
+  background-color: transparent;
+  height: 4.86vw;
+  left: 0.0vw;
+  position: absolute;
+  top: 16.46vw;
+  width: 49.03vw;
+}
+
+.final-design .rectangle-39424-amq5dH {
+  background-color: var(--cod-gray);
+  border: 0.07vw solid;
+  border-color: var(--white);
+  border-radius: 1.17vw;
+  height: 4.86vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 49.03vw;
+}
+
+.final-design .group-156-amq5dH {
+  background-color: transparent;
+  height: 4.03vw;
+  left: 1.46vw;
+  position: absolute;
+  top: 0.42vw;
+  width: 47.22vw;
+}
+
+.final-design .icon-mail-3z5RIk {
+  background-color: transparent;
+  height: 2.36vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.83vw;
+  width: 2.36vw;
+}
+
+.final-design .frame-48095615-3z5RIk {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 1.17vw;
+  display: flex;
+  gap: 0.78vw;
+  height: auto;
+  justify-content: center;
+  left: 37.71vw;
+  mix-blend-mode: normal;
+  padding: 0.78vw 1.56vw;
+  position: absolute;
+  top: 0.0vw;
+  width: fit-content;
+}
+
+.final-design .submit-YZe08o {
+  background-color: transparent;
+  color: var(--cod-gray);
+  font-family: var(--font-family-inter);
+  font-size: 1.81vw;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.0vw;
+  line-height: 2.51vw;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .enter-your-email-here-3z5RIk {
+  background-color: transparent;
+  color: #909090;
+  font-family: var(--font-family-inter);
+  font-size: 1.94vw;
+  font-style: normal;
+  font-weight: 200;
+  height: 2.71vw;
+  left: 3.33vw;
+  letter-spacing: 0.0vw;
+  line-height: 2.7vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0.69vw;
+  white-space: nowrap;
+  width: auto;
+}
+
+.final-design .group-39881-7vbHAl {
+  height: 45.83vw;
+  left: 18.96vw;
+  top: 393.61vw;
+  width: 63.47vw;
+}
+
+.final-design .group-86-LUQbwB {
+  background-color: transparent;
+  height: 39.31vw;
+  left: 0.0vw;
+  position: absolute;
+  top: 6.53vw;
+  width: 63.75vw;
+}
+
+.final-design .bg-xvFau7 {
+  -webkit-backdrop-filter: blur(2.92vw) brightness(100%);
+  backdrop-filter: blur(2.92vw) brightness(100%);
+  border: 0.07vw solid;
+  border-image: linear-gradient(to bottom, rgba(91.00000217556953, 91.00000217556953, 91.00000217556953, 0), rgb(91.00000217556953, 91.00000217556953, 91.00000217556953)) 1;
+  border-radius: 1.11vw;
+  height: 39.31vw;
+  opacity: 0.75;
+  width: 63.47vw;
+}
+
+.final-design .social-xvFau7 {
+  background-color: transparent;
+  height: 1.53vw;
+  left: 28.06vw;
+  position: absolute;
+  top: 30.83vw;
+  width: 7.29vw;
+}
+
+.final-design .copyright-xvFau7 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 28.06vw;
+  letter-spacing: 0.0vw;
+  line-height: 1.22vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 35.07vw;
+  white-space: nowrap;
+  width: auto;
+}
+
+.final-design .logo-original-xvFau7 {
+  background-color: transparent;
+  height: 2.5vw;
+  left: 25.97vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1.32vw;
+  width: 7.92vw;
+}
+
+.final-design .group-4-xvFau7 {
+  background-color: transparent;
+  height: 9.51vw;
+  left: 16.39vw;
+  position: absolute;
+  top: 7.92vw;
+  width: 30.83vw;
+}
+
+.final-design .discover-nQDxDA {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 3.89vw;
+  letter-spacing: -0.19vw;
+  top: 0.0vw;
+}
+
+.final-design .frame-48095589-nQDxDA {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.08vw;
+  height: 4.72vw;
+  justify-content: center;
+  left: 0.0vw;
+  position: absolute;
+  top: 4.72vw;
+  width: 30.69vw;
+}
+
+.final-design .group-2-mSJxZo {
+  background-color: transparent;
+  height: 4.72vw;
+  margin-right: -0.11vw;
+  min-width: 30.83vw;
+  position: relative;
+}
+
+.final-design .web3-products-D4dycu {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 3.89vw;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.0vw;
+  top: 0.0vw;
+}
+
+.final-design .explore-our-projects-xvFau7 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 19.72vw;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 18.75vw;
+  width: 24.03vw;
+}
+
+.final-design .group-85-xvFau7 {
+  background-color: transparent;
+  height: 2.22vw;
+  left: 24.03vw;
+  position: absolute;
+  top: 22.5vw;
+  width: 15.49vw;
+}
+
+.final-design .frame-48095581-1iF6Uc {
+  border: 0.05vw solid;
+  border-color: var(--white);
+  border-radius: 1.68vw;
+  gap: 0.36vw;
+  height: 2.22vw;
+  left: 0.0vw;
+  padding: 0.55vw 1.09vw;
+  top: 0.0vw;
+  width: 15.49vw;
+}
+
+.final-design .start-your-7-day-free-trial-WqOQ1U {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: 0.91vw;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-left: -0.01vw;
+  margin-top: -0.03vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .arrow-up-right-WqOQ1U {
+  height: 1.09vw;
+  min-width: 1.09vw;
+}
+
+.final-design .group-146-LUQbwB {
+  background-color: transparent;
+  height: 13.12vw;
+  left: 25.14vw;
+  position: absolute;
+  top: 0.0vw;
+  width: 13.12vw;
+}
+
+.final-design .ellipse-34-QowB3J {
+  background-color: transparent;
+  height: 13.12vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 13.12vw;
+}
+
+.final-design .frame-48095658-QowB3J {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.56vw;
+  height: auto;
+  justify-content: center;
+  left: 2.15vw;
+  position: absolute;
+  top: 3.54vw;
+  width: fit-content;
+}
+
+.final-design .web3alpha-3-3di3YL {
+  background-color: transparent;
+  height: 3.77vw;
+  min-width: 3.77vw;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.final-design .help-menu-3di3YL {
+  font-size: 1.6vw;
+  line-height: 1.6vw;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095657-7vbHAl {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7.01vw;
+  height: auto;
+  justify-content: center;
+  left: 5.83vw;
+  position: absolute;
+  top: 3.47vw;
+  width: fit-content;
+}
+
+.final-design .group-145-ac4S8x {
+  background-color: transparent;
+  height: 2.28vw;
+  min-width: 12.17vw;
+  position: relative;
+}
+
+.final-design .help-menu-WQYuxA {
+  font-size: 1.67vw;
+  height: auto;
+  left: 2.85vw;
+  line-height: 1.67vw;
+  position: absolute;
+  top: 0.28vw;
+  width: auto;
+}
+
+.final-design .web3alpha-2-WQYuxA {
+  background-color: transparent;
+  height: 2.29vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 2.29vw;
+}
+
+.final-design .frame-48095656-ac4S8x {
+  gap: 3.33vw;
+  position: relative;
+}
+
+.final-design .discover-products-d4uS1C {
+  letter-spacing: 0.0vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .stories-d4uS1C {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .about-us-d4uS1C {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .pricing-plans-d4uS1C {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .sign-up-d4uS1C {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .frame-48095581-ac4S8x {
+  border-radius: 2.57vw;
+  gap: 0.56vw;
+  height: auto;
+  padding: 0.83vw 1.67vw;
+  width: fit-content;
+}
+
+.final-design .start-trial-x0XV4m {
+  background-color: transparent;
+  color: var(--cod-gray);
+  font-family: var(--font-family-montserrat);
+  font-size: 1.39vw;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.03vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .group-152-7vbHAl {
+  background-color: transparent;
+  height: 85.62vw;
+  left: -4.93vw;
+  position: absolute;
+  top: 198.26vw;
+  width: 111.25vw;
+}
+
+.final-design .group-126-xrwxim {
+  background-color: transparent;
+  height: 106.46vw;
+  left: 4.93vw;
+  position: absolute;
+  top: -10.42vw;
+  width: 100.0vw;
+}
+
+.final-design .frame-48095644-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 67.29vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 14.86vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-MZvEXF {
+  height: 4.56vw;
+  min-width: 4.56vw;
+  position: relative;
+}
+
+.final-design .frame-48095653-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 30.9vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 58.68vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-Ty9fLe {
+  height: 4.56vw;
+  min-width: 4.56vw;
+  position: relative;
+}
+
+.final-design .frame-48095650-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 72.71vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 32.43vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-j5cUys {
+  height: 4.56vw;
+  min-width: 4.56vw;
+  position: relative;
+}
+
+.final-design .frame-48095651-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 73.26vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 67.15vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-dgNboe {
+  height: 4.56vw;
+  min-width: 4.56vw;
+  position: relative;
+}
+
+.final-design .frame-48095643-xrwxim {
+  align-items: center;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 48.33vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  top: 67.36vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-LgAZAi {
+  height: 4.43vw;
+  min-width: 4.99vw;
+  position: relative;
+}
+
+.final-design .get-all-the-insights-you-require-xrwxim {
+  background-color: transparent;
+  height: auto;
+  left: 12.57vw;
+  letter-spacing: -0.06vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0.07vw;
+  width: auto;
+}
+
+.final-design .we-give-a-score-base-xrwxim {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 2.22vw;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 12.57vw;
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29.93vw;
+  width: auto;
+}
+
+.final-design .group-141-xrwxim {
+  background-color: transparent;
+  height: 25.28vw;
+  left: 41.81vw;
+  position: absolute;
+  top: 28.47vw;
+  width: 26.18vw;
+}
+
+.final-design .bg-VjK9PI {
+  -webkit-backdrop-filter: blur(1.02vw) brightness(100%);
+  backdrop-filter: blur(1.02vw) brightness(100%);
+  border: 0.02vw solid;
+  border-image: linear-gradient(to bottom, rgb(0, 0, 0), rgb(255, 255, 255)) 1;
+  border-radius: 1.94vw;
+  height: 25.28vw;
+  width: 26.18vw;
+}
+
+.final-design .group-139-VjK9PI {
+  background-color: transparent;
+  height: 16.39vw;
+  left: 2.85vw;
+  position: absolute;
+  top: 4.72vw;
+  width: 20.56vw;
+}
+
+.final-design .group-142-Ewm57b {
+  background-color: transparent;
+  height: 16.39vw;
+  left: 0.0vw;
+  position: relative;
+  top: 0.0vw;
+  width: 20.69vw;
+}
+
+.final-design .accounts-monitored-daily-rMdGMg {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 1.17vw;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1.32vw;
+  letter-spacing: 0.16vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15.0vw;
+  white-space: nowrap;
+  width: auto;
+}
+
+.final-design .group-138-rMdGMg {
+  background-color: transparent;
+  height: 14.17vw;
+  left: 0.0vw;
+  position: absolute;
+  top: 0.0vw;
+  width: 20.69vw;
+}
+
+.final-design .x1200-plus-BGnKTV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 4.44vw;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 4.65vw;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8.75vw;
+  width: auto;
+}
+
+.final-design .span0-W8FpWr {
+  font-style: normal;
+  font-weight: 600;
+}
+
+.final-design .span1-W8FpWr {
+  font-size: var(--font-size-l);
+  font-style: normal;
+}
+
+.final-design .subtract-BGnKTV {
+  height: 10.69vw;
+  left: -0.07vw;
+  top: -0.07vw;
+  width: 20.62vw;
+}
+
+.final-design .subtract-uPibV1 {
+  height: 11.39vw;
+  left: -0.42vw;
+  top: -0.42vw;
+  width: 14.79vw;
+}
+
+.final-design .subtract-h8xVnp {
+  height: 10.69vw;
+  left: -0.07vw;
+  top: -0.07vw;
+  width: 14.1vw;
+}
+
+.final-design .frame-48095656-xrwxim {
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  gap: 1.33vw;
+  left: 53.61vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 58.82vw;
+}
+
+.final-design .uilcalender-JuxOQU {
+  height: 3.85vw;
+  min-width: 5.32vw;
+  position: relative;
+}
+
+.final-design .frame-48095660-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 79.38vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 40.62vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-K4AcLQ {
+  height: 4.6vw;
+  min-width: 4.12vw;
+  position: relative;
+}
+
+.final-design .frame-48095665-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 55.83vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 7.01vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-6kzJ5d {
+  height: 4.6vw;
+  min-width: 4.12vw;
+  position: relative;
+}
+
+.final-design .frame-48095661-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 77.22vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 23.54vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-ex70SA {
+  height: 4.93vw;
+  min-width: 4.89vw;
+  position: relative;
+}
+
+.final-design .frame-48095664-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 78.47vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 58.26vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-z5yBvn {
+  height: 4.93vw;
+  min-width: 4.89vw;
+  position: relative;
+}
+
+.final-design .frame-48095663-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 23.61vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 67.29vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-GDVd90 {
+  height: 4.93vw;
+  min-width: 4.89vw;
+  position: relative;
+}
+
+.final-design .frame-48095655-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 78.96vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 6.88vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-hRFjMY {
+  height: 4.92vw;
+  min-width: 4.93vw;
+  position: relative;
+}
+
+.final-design .frame-48095662-xrwxim {
+  align-items: center;
+  background-color: transparent;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(17.00000088661909, 17.00000088661909, 17.00000088661909) 7.980416715145111%, rgb(255, 255, 255)) 1;
+  border-radius: 3.06vw;
+  display: flex;
+  gap: 1.33vw;
+  height: auto;
+  justify-content: center;
+  left: 73.96vw;
+  opacity: 0.75;
+  padding: 0.67vw 1.17vw;
+  position: absolute;
+  top: 48.75vw;
+  width: fit-content;
+}
+
+.final-design .uilcalender-5eBxaW {
+  height: 4.92vw;
+  min-width: 4.93vw;
+  position: relative;
+}
+
+.final-design .group-162-7vbHAl {
+  background-color: transparent;
+  height: 44.86vw;
+  left: 7.15vw;
+  position: absolute;
+  top: 54.1vw;
+  width: 86.11vw;
+}
+
+.final-design .we-do-P9alqd {
+  background-color: transparent;
+  height: auto;
+  left: 2.15vw;
+  letter-spacing: -0.06vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6.74vw;
+  width: auto;
+}
+
+.final-design .what-P9alqd {
+  background-color: transparent;
+  height: auto;
+  left: 0.0vw;
+  letter-spacing: -0.06vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0.0vw;
+  width: auto;
+}
+
+.final-design .group-155-P9alqd {
+  background-color: transparent;
+  height: 25.28vw;
+  left: 3.75vw;
+  position: absolute;
+  top: 19.58vw;
+  width: 81.94vw;
+}
+
+.final-design .rectangle-39449-uolMUv {
+  background-color: var(--black);
+  border-radius: 1.04vw;
+  filter: blur(2.08vw);;
+  height: 25.28vw;
+  left: 5.76vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 6.11vw;
+}
+
+.final-design .frame-48095659-uolMUv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2.08vw;
+  height: auto;
+  justify-content: center;
+  left: 0.0vw;
+  position: absolute;
+  top: 2.5vw;
+  width: fit-content;
+}
+
+.final-design .group-151-WkujXT {
+  background-color: transparent;
+  height: 19.17vw;
+  min-width: 15.0vw;
+  position: relative;
+}
+
+.final-design .rectangle-39444-8c1Qfv {
+  background-color: var(--shark);
+  border-radius: 1.04vw;
+  box-shadow: 0.0vw 0.28vw 0.28vw #00000040;
+  height: 19.17vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 14.72vw;
+}
+
+.final-design .icon-search-8c1Qfv {
+  background-color: transparent;
+  height: 4.1vw;
+  left: 2.01vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2.08vw;
+  width: 4.1vw;
+}
+
+.final-design .discover-products-8c1Qfv {
+  height: auto;
+  left: 2.01vw;
+  letter-spacing: -0.02vw;
+  position: absolute;
+  top: 9.51vw;
+  width: auto;
+}
+
+.final-design .web3-nf-ts-metaverses-more-8c1Qfv {
+  background-color: transparent;
+  height: auto;
+  left: 2.01vw;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14.1vw;
+  width: 11.11vw;
+}
+
+.final-design .line-64-8c1Qfv {
+  background-color: transparent;
+  height: 4.03vw;
+  left: 4.03vw;
+  position: absolute;
+  top: 5.14vw;
+  width: 0.14vw;
+}
+
+.final-design .group-150-WkujXT {
+  background-color: transparent;
+  height: 19.17vw;
+  min-width: 15.0vw;
+  position: relative;
+}
+
+.final-design .rectangle-39445-GUvJCr {
+  background-color: var(--shark);
+  border-radius: 1.04vw;
+  height: 19.17vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 14.72vw;
+}
+
+.final-design .uilcalender-GUvJCr {
+  height: 4.31vw;
+  left: 1.74vw;
+  position: absolute;
+  top: 2.01vw;
+  width: 4.31vw;
+}
+
+.final-design .monthly-alpha-reports-GUvJCr {
+  height: auto;
+  left: 1.74vw;
+  letter-spacing: -0.02vw;
+  position: absolute;
+  top: 9.51vw;
+  width: auto;
+}
+
+.final-design .line-65-GUvJCr {
+  background-color: transparent;
+  height: 4.03vw;
+  left: 3.89vw;
+  position: absolute;
+  top: 5.14vw;
+  width: 0.14vw;
+}
+
+.final-design .early-projects-upcoming-mints-GUvJCr {
+  background-color: transparent;
+  height: auto;
+  left: 1.74vw;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14.1vw;
+  width: 11.11vw;
+}
+
+.final-design .group-149-WkujXT {
+  background-color: transparent;
+  height: 19.17vw;
+  min-width: 15.0vw;
+  position: relative;
+}
+
+.final-design .rectangle-39446-VQyd6L {
+  background-color: var(--shark);
+  border-radius: 1.04vw;
+  height: 19.17vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 14.72vw;
+}
+
+.final-design .magic-bots-VQyd6L {
+  background-color: transparent;
+  height: auto;
+  left: 2.08vw;
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9.51vw;
+  width: auto;
+}
+
+.final-design .mdirobot-VQyd6L {
+  background-color: transparent;
+  height: 4.31vw;
+  left: 2.08vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2.01vw;
+  width: 4.51vw;
+}
+
+.final-design .line-66-VQyd6L {
+  background-color: transparent;
+  height: 4.03vw;
+  left: 4.24vw;
+  position: absolute;
+  top: 5.14vw;
+  width: 0.14vw;
+}
+
+.final-design .spotting-alpha-on-twitter-more-VQyd6L {
+  background-color: transparent;
+  height: auto;
+  left: 2.08vw;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14.1vw;
+  width: 11.11vw;
+}
+
+.final-design .group-148-WkujXT {
+  background-color: transparent;
+  height: 19.17vw;
+  min-width: 15.0vw;
+  position: relative;
+}
+
+.final-design .rectangle-39447-MVR8L3 {
+  background-color: var(--shark);
+  border-radius: 1.04vw;
+  height: 19.17vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 14.72vw;
+}
+
+.final-design .material-symbolslist-alt-outline-MVR8L3 {
+  background-color: transparent;
+  height: 4.1vw;
+  left: 2.01vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2.08vw;
+  width: 4.1vw;
+}
+
+.final-design .curate-lists-MVR8L3 {
+  background-color: transparent;
+  height: auto;
+  left: 2.01vw;
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9.51vw;
+  width: auto;
+}
+
+.final-design .line-67-MVR8L3 {
+  background-color: transparent;
+  height: 4.03vw;
+  left: 4.1vw;
+  position: absolute;
+  top: 5.14vw;
+  width: 0.14vw;
+}
+
+.final-design .of-wallets-twitter-accounts-MVR8L3 {
+  background-color: transparent;
+  height: auto;
+  left: 2.01vw;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14.1vw;
+  width: 11.11vw;
+}
+
+.final-design .group-147-WkujXT {
+  background-color: transparent;
+  height: 19.17vw;
+  margin-right: -0.28vw;
+  min-width: 15.0vw;
+  position: relative;
+}
+
+.final-design .rectangle-39448-o0MSSp {
+  background-color: var(--shark);
+  border-radius: 1.04vw;
+  height: 19.17vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 14.72vw;
+}
+
+.final-design .eptools-o0MSSp {
+  background-color: transparent;
+  height: 4.38vw;
+  left: 2.01vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1.94vw;
+  width: 4.38vw;
+}
+
+.final-design .community-tools-o0MSSp {
+  background-color: transparent;
+  height: auto;
+  left: 2.01vw;
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9.51vw;
+  width: auto;
+}
+
+.final-design .line-68-o0MSSp {
+  background-color: transparent;
+  height: 4.03vw;
+  left: 4.24vw;
+  position: absolute;
+  top: 5.14vw;
+  width: 0.14vw;
+}
+
+.final-design .to-help-with-different-operations-o0MSSp {
+  background-color: transparent;
+  height: auto;
+  left: 2.01vw;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14.1vw;
+  width: 11.11vw;
+}
+
+.final-design .our-insights-do-wonders-P9alqd {
+  background-color: transparent;
+  height: auto;
+  left: 10.56vw;
+  letter-spacing: -0.03vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13.75vw;
+  width: 29.51vw;
+}
+
+.final-design .group-39882-7vbHAl {
+  background-color: transparent;
+  height: 45.35vw;
+  left: 16.88vw;
+  position: absolute;
+  top: 304.44vw;
+  width: 29.79vw;
+}
+
+.final-design .group-39878-SNxNOT {
+  background-color: transparent;
+  height: 45.9vw;
+  left: -0.28vw;
+  position: absolute;
+  top: -0.28vw;
+  width: 30.35vw;
+}
+
+.final-design .group-39881-SNxNOT {
+  height: 45.35vw;
+  left: 0.0vw;
+  top: 0.0vw;
+  width: 29.79vw;
+}
+
+.final-design .rectangle-39450-ak9xiA {
+  -webkit-backdrop-filter: blur(2.92vw) brightness(100%);
+  backdrop-filter: blur(2.92vw) brightness(100%);
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0) 100%);
+  /* background-color: transparent; */
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(91.00000217556953, 91.00000217556953, 91.00000217556953, 0), rgb(91.00000217556953, 91.00000217556953, 91.00000217556953)) 1;
+  border-radius: 1.11vw;
+  opacity: 0.75;
+  background-color: var(--cod-gray);
+  border-color: var(--white);
+  border-radius: 0.74vw; */
+  border: 0.07vw red solid;
+  height: 45.35vw;
+  left: 0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0vw;
+  width: 29.79vw
+}
+
+.final-design .rectangle-39450 {
+  border: 0.07vw solid;
+  height: 45.35vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 29.79vw;
+}
+
+.final-design .frame-48095701-ak9xiA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 3.71vw;
+  height: 39.03vw;
+  justify-content: center;
+  left: 2.29vw;
+  position: absolute;
+  top: 3.12vw;
+  width: 25.21vw;
+}
+
+.final-design .frame-48095700-JFpfkW {
+  margin-top: -0.8vw;
+}
+
+.final-design .monthly-plan-1RfknE {
+  background-color: transparent;
+  letter-spacing: 0.06vw;
+  line-height: normal;
+  margin-top: -0.06vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .our-monthly-plan-is-1RfknE {
+  color: var(--white);
+  font-weight: 400;
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 25.18vw;
+}
+
+.final-design .x39-f0E1MH {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.11vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .month-f0E1MH {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .billed-every-month-recurringly-b52ixQ {
+  background-color: transparent;
+  height: auto;
+  left: 12.15vw;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8.4vw;
+  width: 6.6vw;
+}
+
+.final-design .frame-48095691-UEIq5h {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 0.74vw;
+}
+
+.final-design .frame-48095691-xKCU6x {
+  align-items: center;
+  gap: 1.11vw;
+}
+
+.final-design .monthly-alpha-reports-EPxnJM {
+  letter-spacing: 0.0vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .frame-48095687-JFpfkW {
+  background-color: transparent;
+  border: 0.12vw solid;
+  margin-bottom: -0.8vw;
+}
+
+.final-design .get-started-o7uxC3 {
+  color: var(--white);
+  font-weight: 400;
+  margin-top: -0.12vw;
+}
+
+.final-design .arrow-up-right-o7uxC3 {
+  height: 1.48vw;
+  min-width: 1.49vw;
+}
+
+.final-design .group-161-7vbHAl {
+  background-color: transparent;
+  height: 69.24vw;
+  left: 7.57vw;
+  position: absolute;
+  top: 110.42vw;
+  width: 85.14vw;
+}
+
+.final-design .our-impact-wB46TH {
+  background-color: transparent;
+  height: auto;
+  left: 3.68vw;
+  letter-spacing: -0.06vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0.0vw;
+  width: auto;
+}
+
+.final-design .return-on-investment-wB46TH {
+  background-color: transparent;
+  height: auto;
+  left: 12.64vw;
+  letter-spacing: -0.03vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13.75vw;
+  width: 29.51vw;
+}
+
+.final-design .group-158-wB46TH {
+  background-color: transparent;
+  height: 22.22vw;
+  left: 44.51vw;
+  position: absolute;
+  top: 23.12vw;
+  width: 40.35vw;
+}
+
+.final-design .frame-48095666-EPGjLU {
+  height: 3.85vw;
+  min-width: 3.82vw;
+}
+
+.final-design .sri-EPGjLU {
+  background-color: transparent;
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x18th-march-2023-elaB7m {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x16th-march-2023-qOLurw {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x16-elTCF2 {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .arrow-up-right-elTCF2 {
+  height: 1.66vw;
+  min-width: 1.66vw;
+}
+
+.final-design .x4000-lPZGxV {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .arrow-up-right-lPZGxV {
+  height: 1.66vw;
+  min-width: 1.66vw;
+}
+
+.final-design .group-159-wB46TH {
+  background-color: transparent;
+  height: 22.22vw;
+  left: 0.0vw;
+  position: absolute;
+  top: 23.12vw;
+  width: 40.35vw;
+}
+
+.final-design .frame-48095666-AnJK6K {
+  height: 3.82vw;
+  min-width: 3.82vw;
+}
+
+.final-design .x24th-march-2023-0O1Rqc {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x20th-march-2023-2fBHXa {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x20-pobWcb {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .arrow-up-right-pobWcb {
+  height: 1.66vw;
+  min-width: 1.66vw;
+}
+
+.final-design .x5000-Wy10uc {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .arrow-up-right-Wy10uc {
+  height: 1.66vw;
+  min-width: 1.66vw;
+}
+
+.final-design .group-160-wB46TH {
+  background-color: transparent;
+  height: 22.22vw;
+  left: 22.29vw;
+  position: absolute;
+  top: 47.01vw;
+  width: 40.35vw;
+}
+
+.final-design .frame-48095666-PhLKrU {
+  height: 3.84vw;
+  min-width: 3.86vw;
+}
+
+.final-design .ino-PhLKrU {
+  background-color: transparent;
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x10th-april-2023-nt0JeD {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x04th-april-2023-HGxywR {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x09-TVJeuu {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .arrow-up-right-TVJeuu {
+  height: 1.66vw;
+  min-width: 1.66vw;
+}
+
+.final-design .x6100-0VHdcf {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .arrow-up-right-0VHdcf {
+  height: 1.66vw;
+  min-width: 1.66vw;
+}
+
+.final-design .group-39883-7vbHAl {
+  background-color: transparent;
+  height: 46.94vw;
+  left: 53.33vw;
+  position: absolute;
+  top: 302.99vw;
+  width: 29.79vw;
+}
+
+.final-design .group-39880-JoEyId {
+  background-color: transparent;
+  height: 46.94vw;
+  left: 0.0vw;
+  position: absolute;
+  top: 0.0vw;
+  width: 29.79vw;
+}
+
+.final-design .rectangle-39451-v2DM6x {
+  background-color: var(--cod-gray);
+  border-color: var(--white);
+  border-radius: 0.74vw;
+}
+
+.final-design .frame-48095702-v2DM6x {
+  border: 0.07vw solid;
+  border-color: var(--black);
+}
+
+.final-design .frame-48095700-tiZpX5 {
+  margin-top: -0.05vw;
+}
+
+.final-design .span0-vyoElk {
+}
+
+.final-design .span1-vyoElk {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.final-design .span2-vyoElk {
+}
+
+.final-design .frame-48095691-2MY3LR {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 0.74vw;
+}
+
+.final-design .frame-48095691-bPECxL {
+  align-items: center;
+  gap: 1.11vw;
+}
+
+.final-design .monthly-alpha-reports-PuXEYc {
+  letter-spacing: 0.0vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .frame-48095687-tiZpX5 {
+  background-color: var(--white);
+  border: 0.06vw solid;
+  margin-bottom: -0.05vw;
+}
+
+.final-design .get-started-njVMf2 {
+  color: var(--cod-gray);
+  font-weight: 600;
+  margin-top: -0.06vw;
+}
+
+.final-design .arrow-up-right-njVMf2 {
+  height: 1.48vw;
+  min-width: 1.49vw;
+}
+
+.final-design .frame-48095703-53wPTH {
+  background-color: #26411b;
+  border-radius: 1.62vw;
+}
+
+.final-design .group-39881-JoEyId {
+  height: 46.94vw;
+  left: 0.0vw;
+  top: 0.0vw;
+  width: 29.79vw;
+}
+
+.final-design .rectangle-39451-kxnd2a {
+  -webkit-backdrop-filter: blur(2.92vw) brightness(100%);
+  backdrop-filter: blur(2.92vw) brightness(100%);
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.4000000059604645) 0%, rgba(255, 255, 255, 0) 100%);
+  background-color: transparent;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(91.00000217556953, 91.00000217556953, 91.00000217556953, 0), rgb(91.00000217556953, 91.00000217556953, 91.00000217556953)) 1;
+  border-radius: 1.11vw;
+  opacity: 0.75;
+}
+
+.final-design .frame-48095700-FaQlv6 {
+  margin-top: -0.05vw;
+}
+
+.final-design .span0-qsXTRY {
+}
+
+.final-design .span1-qsXTRY {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.final-design .span2-qsXTRY {
+}
+
+.final-design .frame-48095691-IPQQNp {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 0.74vw;
+}
+
+.final-design .frame-48095691-8fWLtF {
+  align-items: center;
+  gap: 1.11vw;
+}
+
+.final-design .monthly-alpha-reports-e4IWzQ {
+  letter-spacing: 0.0vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .frame-48095687-FaQlv6 {
+  background-color: var(--white);
+  border: 0.06vw solid;
+  margin-bottom: -0.05vw;
+}
+
+.final-design .get-started-4R2br2 {
+  color: var(--cod-gray);
+  font-weight: 600;
+  margin-top: -0.06vw;
+}
+
+.final-design .arrow-up-right-4R2br2 {
+  height: 1.48vw;
+  min-width: 1.49vw;
+}
+
+.final-design .frame-48095703-xGrOaa {
+  -webkit-backdrop-filter: blur(2.92vw) brightness(100%);
+  backdrop-filter: blur(2.92vw) brightness(100%);
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.4000000059604645) 0%, rgba(255, 255, 255, 0) 100%);
+  background-color: transparent;
+  border: 0.07vw solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(91.00000217556953, 91.00000217556953, 91.00000217556953, 0), rgb(91.00000217556953, 91.00000217556953, 91.00000217556953)) 1;
+  border-radius: 1.11vw;
+  opacity: 0.75;
+}
+
+.final-design .our-pricing-7vbHAl {
+  background-color: transparent;
+  height: auto;
+  left: 15.28vw;
+  letter-spacing: -0.06vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 289.03vw;
+  width: auto;
+}
+
+.final-design .we-have-extremely-affordable-prices-7vbHAl {
+  background-color: transparent;
+  height: auto;
+  left: 26.74vw;
+  letter-spacing: -0.03vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 296.6vw;
+  width: auto;
+}
+
+.final-design .arrow-up-right {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.final-design .bg {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(240, 237, 237, 0.4) 0%, rgba(161, 148, 148, 0) 100%);
+  background-color: rgba(141, 133, 133, 0.767);
+  border-color: transparent;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+}
+
+.final-design .billed-once {
+  background-color: transparent;
+  height: auto;
+  left: 20.76vw;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8.89vw;
+  width: auto;
+}
+
+.final-design .corner-left-up {
+  background-color: transparent;
+  height: 1.87vw;
+  min-width: 1.87vw;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.final-design .current {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .discover {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  width: auto;
+}
+
+.final-design .discover-products {
+  background-color: transparent;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: left;
+}
+
+.final-design .discovered {
+  background-color: transparent;
+  letter-spacing: 0.09vw;
+  line-height: normal;
+  margin-top: -0.09vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .ellipse-35 {
+  background-color: transparent;
+  height: 22.22vw;
+  left: 18.12vw;
+  position: absolute;
+  top: 0.0vw;
+  width: 22.22vw;
+}
+
+.final-design .exclude {
+  background-color: transparent;
+  position: absolute;
+}
+
+.final-design .features {
+  background-color: transparent;
+  letter-spacing: 0.09vw;
+  line-height: normal;
+  margin-top: -0.06vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .firo {
+  background-color: transparent;
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .floor-price {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .followers {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .frame-48095581 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  justify-content: center;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  padding: 2vw
+}
+
+.final-design .frame-48095616 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 0.07vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095643 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.final-design .frame-48095656 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  justify-content: center;
+  width: fit-content;
+}
+
+.final-design .frame-48095666 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.final-design .frame-48095669 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.18vw;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095670 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.18vw;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095671 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.18vw;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095672 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.36vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095673 {
+  align-items: center;
+  background-color: var(--black);
+  border: 0.09vw solid;
+  border-color: var(--white);
+  border-radius: 5.56vw;
+  box-shadow: 0.0vw 40.0vw 20.0vw #000000 , 0.0vw -40.0vw 20.0vw #000000;
+  display: flex;
+  gap: 1.08vw;
+  height: auto;
+  justify-content: center;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  padding: 1.94vw 2.92vw;
+  position: absolute;
+  top: 5.9vw;
+  width: fit-content;
+}
+
+.final-design .frame-48095674 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 0.05vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095677 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095678 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095679 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095680 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.07vw;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095681 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.07vw;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095682 {
+  align-items: center;
+  background-color: transparent;
+  border-radius: 6.94vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.56vw;
+  height: auto;
+  justify-content: center;
+  padding: 0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095683 {
+  align-items: center;
+  background-color: transparent;
+  border-radius: 6.94vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.56vw;
+  height: auto;
+  justify-content: center;
+  padding: 0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095684 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: center;
+  left: 23.47vw;
+  position: absolute;
+  top: 2.29vw;
+  width: fit-content;
+}
+
+.final-design .frame-48095685 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 0.45vw;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095687 {
+  align-items: center;
+  border-color: var(--white);
+  border-radius: 1.48vw;
+  display: flex;
+  gap: 0.74vw;
+  height: auto;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 0.74vw 1.49vw;
+  position: relative;
+  width: 23.57vw;
+}
+
+.final-design .frame-48095688 {
+  background-color: transparent;
+  height: 1.73vw;
+  min-width: 1.73vw;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.final-design .frame-48095689 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 1.11vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095690 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 1.11vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095691 {
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095692 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 1.11vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095693 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 1.11vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095694 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 1.11vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095695 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 1.11vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095696 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 1.11vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095697 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1.49vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095698 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0.74vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095699 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1.49vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095700 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1.49vw;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.final-design .frame-48095702 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 2.23vw;
+  height: 40.21vw;
+  justify-content: center;
+  left: 2.29vw;
+  position: absolute;
+  top: 2.57vw;
+  width: 25.21vw;
+}
+
+.final-design .frame-48095703 {
+  align-items: center;
+  display: flex;
+  gap: 0.54vw;
+  height: 3.12vw;
+  justify-content: center;
+  left: 18.89vw;
+  mix-blend-mode: normal;
+  padding: 0.68vw 1.62vw;
+  position: absolute;
+  top: 0.0vw;
+  width: 8.61vw;
+}
+
+.final-design .get-started {
+  background-color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: 1.24vw;
+  font-style: normal;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .group-39879 {
+  background-color: transparent;
+  height: 45.35vw;
+  left: 0.0vw;
+  position: absolute;
+  top: 1.6vw;
+  width: 29.79vw;
+}
+
+.final-design .group-39881 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.final-design .help-menu {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -0.07vw;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.final-design .if-youre-looking-for {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 25.18vw;
+}
+
+.final-design .line-69 {
+  background-color: transparent;
+  height: 4.97vw;
+  min-width: 0.07vw;
+  position: relative;
+}
+
+.final-design .line-69-stroke {
+  background-color: transparent;
+  height: 0.07vw;
+  min-width: 11.53vw;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.final-design .magic-bots-spotting-alpha-on-twitter {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .month-348-yearly {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .monthly-alpha-reports {
+  background-color: transparent;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: left;
+}
+
+.final-design .new-projects-dashboard {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .personal-watch-lists {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .popular {
+  background-color: transparent;
+  color: #6c9759;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-left: -0.0vw;
+  margin-right: -0.0vw;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .previous {
+  background-color: transparent;
+  letter-spacing: -0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .project-details-page {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .project-quality-scores {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .rectangle-39451 {
+  border: 0.07vw solid;
+  height: 45.35vw;
+  left: 0.0vw;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.0vw;
+  width: 29.79vw;
+}
+
+.final-design .social-analytics-dashboard {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .started-on {
+  background-color: transparent;
+  letter-spacing: 0.09vw;
+  line-height: normal;
+  margin-top: -0.09vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .subtract {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  position: absolute;
+}
+
+.final-design .uilcalender {
+  background-color: transparent;
+  mix-blend-mode: normal;
+}
+
+.final-design .web3-products {
+  background-color: transparent;
+  height: auto;
+  left: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  width: auto;
+}
+
+.final-design .well-curated-lists-other-community-tools {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.final-design .x29 {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.11vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x5 {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x529 {
+  background-color: transparent;
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .x87 {
+  background-color: transparent;
+  letter-spacing: 0.0vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.final-design .yearly-plan {
+  background-color: transparent;
+  letter-spacing: 0.06vw;
+  line-height: normal;
+  margin-top: -0.06vw;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
